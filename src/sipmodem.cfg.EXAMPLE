@@ -1,0 +1,14 @@
+#
+# Serial device
+#
+serial_device=/dev/tnt0
+serial_baudrate=9600
+
+#
+# SIP server details
+#
+sip_domain=
+sip_realm=
+sip_username=
+sip_password=
+sip_port=5060

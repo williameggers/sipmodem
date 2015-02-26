@@ -1,0 +1,9 @@
+[submodule "src/lib/libserialport"]
+	path = src/lib/libserialport
+	url = git://sigrok.org/libserialport
+[submodule "src/lib/tty0tty"]
+	path = src/lib/tty0tty
+	url = git@github.com:freemed/tty0tty.git
+[submodule "src/lib/cfg2"]
+	path = src/lib/cfg2
+	url = git@github.com:neolit123/cfg2.git
